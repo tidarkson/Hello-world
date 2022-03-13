@@ -164,9 +164,9 @@ multiplyAll([[1, 2], [3, 4], [5, 6, 7]]);*/
 
 const contacts = [
   {
-    firstName: "Akira",
-    lastName: "Laine",
-    number: "0543236543",
+    firstName: "Tingwutobong",
+    lastName: "Okonson",
+    number: "08134901928",
     likes: ["Pizza", "Coding", "Brownie Points"],
   },
   {
